@@ -8,6 +8,10 @@ A real time MIPS-MARS Processor that takes in input from the user annd then prin
 - Printing specific results
 - Printing the intermeddiateries
 
+## Languages And Frameworks
+- Python
+- MIPS 
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
